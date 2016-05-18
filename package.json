@@ -1,0 +1,16 @@
+{
+  "name": "storybot",
+  "version": "0.0.1",
+  "description": "A user-driven story game engine for Facebook Messenger.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongodb": "^2.1.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Hills",
+  "license": "ISC"
+}
